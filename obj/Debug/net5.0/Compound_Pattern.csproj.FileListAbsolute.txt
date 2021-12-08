@@ -1,0 +1,16 @@
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.exe
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.deps.json
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.runtimeconfig.json
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.runtimeconfig.dev.json
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.dll
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\ref\Compound_Pattern.dll
+C:\Source\FallRepos\Compound_Pattern\bin\Debug\net5.0\Compound_Pattern.pdb
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.csproj.AssemblyReference.cache
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.AssemblyInfoInputs.cache
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.AssemblyInfo.cs
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.csproj.CoreCompileInputs.cache
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.dll
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\ref\Compound_Pattern.dll
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.pdb
+C:\Source\FallRepos\Compound_Pattern\obj\Debug\net5.0\Compound_Pattern.genruntimeconfig.cache
